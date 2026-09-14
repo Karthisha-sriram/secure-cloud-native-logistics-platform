@@ -1,0 +1,6 @@
+{
+  "name": "Secure Cloud-Native Logistics Management Platform",
+  "description": "Enterprise cloud-native logistics and supply chain management platform with JWT role-based access control, shipment tracking, document vault, analytics, and AI logistics assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
